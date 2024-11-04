@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/lightDark">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_speed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:elevation="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.robinhood.ticker.TickerView
+            android:id="@+id/tv_mapDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="0"
+            android:textColor="@color/lightWhiteFg"
+            android:textSize="70sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_mapUnit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="m"
+            android:textColor="@color/lightWhiteFg"
+            android:textSize="20sp"
+            android:layout_marginLeft="4dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/tv_mapDistance" />
+
+        <ImageView
+            android:id="@+id/noreach"
+            android:layout_width="@dimen/dp_40"
+            android:layout_height="@dimen/dp_40"
+            android:src="@drawable/noreach"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tv_mapDistance"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/isreach"
+            android:layout_width="@dimen/dp_40"
+            android:layout_height="@dimen/dp_40"
+            android:src="@drawable/reach"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tv_mapDistance"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/mygoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="12dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+<LinearLayout
+    android:id="@+id/topMenu"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/layout_speed"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:elevation="30dp"
+    android:layout_marginBottom="30dp">
+
+    <!--用时-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_timer_white_18dp"
+            android:paddingBottom="5dp"/>
+        <TextView
+            android:id="@+id/tv_mapDuration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00:00"
+            android:textSize="20sp"
+            android:textColor="@color/lightWhiteFg"/>
+    </LinearLayout>
+
+    <!--配速-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_speed_white_18dp"
+            android:paddingBottom="5dp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_mapSpeed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="--.--"
+                android:textSize="20sp"
+                android:textColor="@color/lightWhiteFg"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="m/s"
+                android:textSize="20sp"
+                android:textColor="@color/lightWhiteFg"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+<!-- 使用google map -->
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/topMenu" />
+
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:id="@+id/btn_stop"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentBottom="true"
+    android:layout_marginStart="60dp"
+    android:layout_marginTop="60dp"
+    android:layout_marginEnd="60dp"
+    android:layout_marginBottom="60dp"
+    android:src="@drawable/ic_stop_new_black_36dp"
+    app:fabSize="normal" />
+
+</RelativeLayout>

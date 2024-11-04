@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">scynd2</string>
+    <string name="title_activity_main">scynd2</string>
+    <string name="title_run">Run</string>
+    <string name="title_log">Record</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

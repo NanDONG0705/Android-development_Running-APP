@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".UI.Fragment.RunFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="GeoGame"
+        android:textColor="@color/lightWhiteFg"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:background="@color/lightDark"
+        android:elevation="10dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/lightGrayBkg">
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distance Run Today"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <com.robinhood.ticker.TickerView
+                android:id="@+id/tv_todayDistance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="60sp" />
+
+            <TextView
+                android:id="@+id/tv_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="m"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="select your goal:"
+                android:textSize="24dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <org.angmarch.views.NiceSpinner
+                android:id="@+id/loc_spinner"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="84dp"
+                android:layout_marginTop="12dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+            <TextView
+                android:id="@+id/selected_option_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text=" 1 km"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/loc_spinner"
+                app:layout_constraintTop_toBottomOf="@+id/loc_spinner" />
+
+            <org.angmarch.views.NiceSpinner
+                android:id="@+id/time_spinner"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_marginEnd="84dp"
+                app:layout_constraintBottom_toBottomOf="@+id/loc_spinner"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/loc_spinner"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/selected_time_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text=" 1 min"
+                android:textSize="18sp"
+                app:layout_constraintStart_toStartOf="@+id/time_spinner"
+                app:layout_constraintTop_toBottomOf="@+id/time_spinner" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/lightGrayBkg">
+
+        <ImageButton
+            android:id="@+id/btn_run"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_play_circle_filled_black_48dp"
+            android:background="@color/lightGrayBkg"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Running"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_guide"
+            android:text="Check Rules"
+            app:cornerRadius="8dp"
+            android:layout_marginTop="@dimen/dp_20"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

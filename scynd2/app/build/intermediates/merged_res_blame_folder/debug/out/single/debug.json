@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_icon_avatar_default.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\icon_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_icon_avatar_default_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\icon_avatar_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-hdpi_icon_avatar_default_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-hdpi\\icon_avatar_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_log_black_24dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_log_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_play_circle_filled_black_48dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_play_circle_filled_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_profile_black_24dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_profile_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_arrow_right_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_arrow_right_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-hdpi_icon_avatar_default_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-hdpi\\icon_avatar_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_log.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "com.example.scynd2.app-merged_res-30:/drawable_newteach.png.flat",
+        "source": "com.example.scynd2.app-main-32:/drawable/newteach.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-mdpi_icon_avatar_default.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-mdpi\\icon_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_avatar_black_48dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_avatar_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_user_guides.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_user_guides.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_fragment_run.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\fragment_run.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_invisible_black_36dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_invisible_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_run.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\run.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxhdpi_icon_avatar_default_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxhdpi\\icon_avatar_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxxhdpi_icon_avatar_default.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxxhdpi\\icon_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_stop_new_black_36dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_stop_new_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_count_down.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_count_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_log_activity_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_log_activity_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_btn_map_white_36dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\btn_map_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-anydpi-v26_icon_avatar_default.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-anydpi-v26\\icon_avatar_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_speed_white_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_speed_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_reach.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\reach.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxxhdpi_icon_avatar_default_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxxhdpi\\icon_avatar_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_location_white_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_location_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_google_map.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_google_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxhdpi_icon_avatar_default.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxhdpi\\icon_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-anydpi-v26_icon_avatar_default_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-anydpi-v26\\icon_avatar_default_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_settings_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_settings_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_avatar_default_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_avatar_default_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_history_item.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_edit_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_edit_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_fragment_log.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\fragment_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_run_black_24dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_run_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\layout_activity_run_result.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\layout\\activity_run_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxhdpi_icon_avatar_default_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxhdpi\\icon_avatar_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-hdpi_icon_avatar_default.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-hdpi\\icon_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_ic_timer_white_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\ic_timer_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-mdpi_icon_avatar_default_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-mdpi\\icon_avatar_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_noreach.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\noreach.png"
+    },
+    {
+        "merged": "com.example.scynd2.app-merged_res-30:/layout_activity_user_guides.xml.flat",
+        "source": "com.example.scynd2.app-main-32:/layout/activity_user_guides.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_chart_black_18dp.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_chart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_userguidesimg.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\userguidesimg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxxhdpi_icon_avatar_default_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxxhdpi\\icon_avatar_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-mdpi_icon_avatar_default_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-mdpi\\icon_avatar_default_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xhdpi_icon_avatar_default_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xhdpi\\icon_avatar_default_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.3.3\\com.example.scynd2.app-main-32:\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

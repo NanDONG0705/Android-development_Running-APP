@@ -1,0 +1,1 @@
+com.example.scynd2.test
